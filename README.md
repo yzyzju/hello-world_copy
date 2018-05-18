@@ -1,7 +1,6 @@
 # hello-world_copy
 
-hello
 this 
 is
-new
+another
 branch
